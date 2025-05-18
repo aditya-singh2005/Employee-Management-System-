@@ -53,6 +53,6 @@ A simple and intuitive **Employee Management System** designed to help admins an
    ```bash
    npm start
 
- 5. **Open Browser**
+5. **Open Browser**
   ```bash
   http://localhost:5173
