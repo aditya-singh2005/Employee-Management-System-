@@ -46,10 +46,13 @@ A simple and intuitive **Employee Management System** designed to help admins an
    cd ''folder_name''
 
 2. **Install Dependencies**
-  npm i
+   ```bash
+    npm i
 
-3. **Start the project**
-  npm start
+4. **Start the project**
+   ```bash
+   npm start
 
-4. **Open Browser**
+ 5. **Open Browser**
+  ```bash
   http://localhost:5173
