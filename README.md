@@ -32,12 +32,24 @@ A simple and intuitive **Employee Management System** designed to help admins an
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
-- **Database:** (Specify your DB here, e.g., MongoDB, PostgreSQL)
+- **Frontend:** React, JavaScript, HTML
+- **Backend:** LocalStorage 
 - **Authentication:** Simple email/password check (no sessions or JWT)
 
 ---
 
-## 📂 Project Structure
+## 📦 Installation
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/aditya-singh2005/Employee-Management-System-.git
+   cd ''folder_name''
+
+2. **Install Dependencies**
+  npm i
+
+3. **Start the project**
+  npm start
+
+4. **Open Browser**
+  http://localhost:5173
