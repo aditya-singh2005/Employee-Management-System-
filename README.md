@@ -49,10 +49,10 @@ A simple and intuitive **Employee Management System** designed to help admins an
    ```bash
     npm i
 
-4. **Start the project**
+3. **Start the project**
    ```bash
    npm start
-
-5. **Open Browser**
-  ```bash
-  http://localhost:5173
+   
+4. **Open Browser**
+   ```bash
+   http://localhost:5173
