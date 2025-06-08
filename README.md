@@ -21,7 +21,7 @@ A simple and intuitive **Employee Management System** designed to help admins an
 ## 🔐 Login Credentials
 
 ### 🛡️ Admin
-- **Email:** `admin@example.com`  
+- **Email:** `admin@me.com`  
 - **Password:** `123`
 
 ### 👷 Employee
